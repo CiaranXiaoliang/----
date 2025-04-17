@@ -1,0 +1,22 @@
+[
+    {
+        "context": "今天天气真好，阳光明媚",
+        "response": "是啊，这样的天气让人心情愉悦，适合出去走走！",
+        "emotion": "happy"
+    },
+    {
+        "context": "我刚刚失去了工作",
+        "response": "听到这个消息我很难过，但请记住，这只是一个暂时的挫折。",
+        "emotion": "sad"
+    },
+    {
+        "context": "这个服务太差了，我等了整整一个小时！",
+        "response": "我理解您的沮丧，这种情况确实令人气愤。",
+        "emotion": "angry"
+    },
+    {
+        "context": "请问现在几点了？",
+        "response": "现在是下午3点。",
+        "emotion": "neutral"
+    }
+] 

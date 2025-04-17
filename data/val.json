@@ -1,0 +1,22 @@
+[
+    {
+        "context": "我刚刚通过了考试！",
+        "response": "太棒了！恭喜你，这是你努力的结果！",
+        "emotion": "happy"
+    },
+    {
+        "context": "我的宠物今天去世了",
+        "response": "听到这个消息我很遗憾，失去宠物确实很痛苦。",
+        "emotion": "sad"
+    },
+    {
+        "context": "这个产品完全不符合描述！",
+        "response": "我理解您的失望，这种情况确实令人不满。",
+        "emotion": "angry"
+    },
+    {
+        "context": "明天会下雨吗？",
+        "response": "根据天气预报，明天有60%的概率会下雨。",
+        "emotion": "neutral"
+    }
+] 

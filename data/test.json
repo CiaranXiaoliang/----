@@ -1,0 +1,22 @@
+[
+    {
+        "context": "我找到了一份新工作！",
+        "response": "真是个好消息！祝你新工作顺利！",
+        "emotion": "happy"
+    },
+    {
+        "context": "我和最好的朋友吵架了",
+        "response": "朋友之间的争吵确实让人难过，但相信你们会和解的。",
+        "emotion": "sad"
+    },
+    {
+        "context": "这个餐厅的服务太糟糕了！",
+        "response": "我完全理解您的愤怒，这种服务确实让人无法接受。",
+        "emotion": "angry"
+    },
+    {
+        "context": "今天星期几？",
+        "response": "今天是星期三。",
+        "emotion": "neutral"
+    }
+] 
